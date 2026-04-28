@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Background circle -->
+  <circle cx="32" cy="32" r="32" fill="#2c6eb5" opacity="0.1"/>
+  
+  <!-- Key shaft -->
+  <rect x="8" y="28" width="36" height="8" rx="4" fill="#2c6eb5"/>
+  
+  <!-- Key head (circular part) -->
+  <circle cx="48" cy="32" r="12" fill="#2c6eb5"/>
+  
+  <!-- Key hole (inner circle) -->
+  <circle cx="48" cy="32" r="6" fill="#ffffff" opacity="0.3"/>
+  
+  <!-- Key teeth -->
+  <rect x="6" y="34" width="4" height="4" fill="#2c6eb5"/>
+  <rect x="6" y="26" width="4" height="4" fill="#2c6eb5"/>
+</svg>
